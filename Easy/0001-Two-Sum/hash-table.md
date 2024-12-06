@@ -52,8 +52,6 @@ hash_table = {
 }
 ```
 
-
-
 ## Code Example
 
 Here's a Python implementation of the hashtable approach, with added print statements to illustrate the process:
